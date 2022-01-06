@@ -9,9 +9,9 @@
   "NFT_NAME": "CryptoBones NFT",
   "SYMBOL": "CBNFT",
   "MAX_SUPPLY": 2500,
-  "WEI_COST": 2000000000000000,
+  "WEI_COST": 10000000000000000,
   "DISPLAY_COST": 0.01,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 100000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/cryptobonesnft",
   "SHOW_BACKGROUND": true
